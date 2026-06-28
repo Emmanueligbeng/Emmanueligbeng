@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Emmanuel Igbeng 👋
+# Hi there, I'm Techturant 👋
 
 ### Full Stack Developer · Nigeria 🇳🇬
 
